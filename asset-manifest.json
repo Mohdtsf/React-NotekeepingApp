@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-NotekeepingApp/static/css/main.b3aa1e97.css",
+    "main.js": "/React-NotekeepingApp/static/js/main.0dbf5a17.js",
+    "static/js/787.4b64efdf.chunk.js": "/React-NotekeepingApp/static/js/787.4b64efdf.chunk.js",
+    "index.html": "/React-NotekeepingApp/index.html",
+    "main.b3aa1e97.css.map": "/React-NotekeepingApp/static/css/main.b3aa1e97.css.map",
+    "main.0dbf5a17.js.map": "/React-NotekeepingApp/static/js/main.0dbf5a17.js.map",
+    "787.4b64efdf.chunk.js.map": "/React-NotekeepingApp/static/js/787.4b64efdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3aa1e97.css",
+    "static/js/main.0dbf5a17.js"
+  ]
+}
